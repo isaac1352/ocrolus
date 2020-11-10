@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ocrolus-dev-175449-authRole",
+      "UnauthRoleArn": "arn:aws:iam::665059372725:role/amplify-ocrolus-dev-175449-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::665059372725:role/amplify-ocrolus-dev-175449-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ocrolus-dev-175449-deployment",
+      "UnauthRoleName": "amplify-ocrolus-dev-175449-unauthRole",
+      "StackName": "amplify-ocrolus-dev-175449",
+      "StackId": "arn:aws:cloudformation:us-east-1:665059372725:stack/amplify-ocrolus-dev-175449/8dc69060-0cd5-11eb-a755-0e6ee54e29b3",
+      "AmplifyAppId": "d2s42vuv3kve6i"
+    }
+  }
+}

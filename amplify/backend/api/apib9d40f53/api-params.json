@@ -1,0 +1,78 @@
+{
+    "paths": [
+        {
+            "name": "/items",
+            "lambdaFunction": "ocrolus",
+            "privacy": {
+                "open": true
+            },
+            "policyResourceName": "/items"
+        },
+        {
+            "name": "/uploadAxios",
+            "lambdaFunction": "ocrolus",
+            "privacy": {
+                "open": true
+            }
+        },
+        {
+            "name": "/getResults",
+            "lambdaFunction": "ocrolus",
+            "privacy": {
+                "open": true
+            }
+        },
+        {
+            "name": "/disbursementResults",
+            "lambdaFunction": "ocrolus",
+            "privacy": {
+                "open": true
+            }
+        },
+        {
+            "name": "/invoiceResults",
+            "lambdaFunction": "ocrolus",
+            "privacy": {
+                "open": true
+            }
+        },
+        {
+            "name": "/mixedResults",
+            "lambdaFunction": "ocrolus",
+            "privacy": {
+                "open": true
+            }
+        },
+        {
+            "name": "/status",
+            "lambdaFunction": "ocrolus",
+            "privacy": {
+                "open": true
+            }
+        }
+    ],
+    "resourceName": "apib9d40f53",
+    "apiName": "apib9d40f53",
+    "functionArns": [
+        {
+            "lambdaFunction": "ocrolus"
+        }
+    ],
+    "privacy": {
+        "auth": 0,
+        "unauth": 0,
+        "authRoleName": "amplify-ocrolus-dev-175449-authRole",
+        "unAuthRoleName": "amplify-ocrolus-dev-175449-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "ocrolus",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ],
+    "uuid": "2c2fcac9"
+}
