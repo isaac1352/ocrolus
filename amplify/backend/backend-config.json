@@ -9,7 +9,7 @@
   },
   "api": {
     "apib9d40f53": {
-      "service": "API ",
+      "service": "API Gateway",
       "providerPlugin": "awscloudformation",
       "dependsOn": [
         {
